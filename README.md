@@ -17,5 +17,5 @@ Conduct exploratory data analysis by manipulating data in a Pandas data frame an
 Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library. Generate interactive maps, plot coordinates, and mark clusters using Follium.
 
 ## Predictive Analysis - Machine Learning Classification Model
-Use machine learning to determine if the first stage of Falcon 9 will land successfully and find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression.
+Use machine learning to determine if the first stage of Falcon 9 will land successfully and find the best Hyperparameter for KNN SVM, Decision Tree, and Logistic Regression.
 
